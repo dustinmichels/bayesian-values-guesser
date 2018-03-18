@@ -2,9 +2,14 @@
 data/F00001101-WV6_Official_Questionnaire_v4_June2012.pdf
 data/F00003861-WV6_Codebook_v_2014_11_07.xls
 data/WV6_Data_ascii_delimited_v_2016_01_01.dat
+data/WV6_Data_R_v_2016_01_01.rdata
+data/wvs_data.csv
+
 
 # Pycharm
 .idea/
 
 # Jupyter
 .ipynb_checkpoints/
+
+ __pycache__/
